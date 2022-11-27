@@ -1,3 +1,9 @@
+## 2022/11/27 更新
+Overleaf使用说明：
+编译器选择'XeLaTeX'，就不会报错
+
+---
+
 # HUST-Master-Thesis-Latex
 
 
