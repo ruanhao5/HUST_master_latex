@@ -1,0 +1,2 @@
+# HUST_master_latex
+华中科技大学硕士毕业论文latex模板
